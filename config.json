@@ -1,7 +1,7 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
-	"name": "afkbot",
+	"ip":"XUFQX1.aternos.me",
+	"port": ,
+	"name": "xufqbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
